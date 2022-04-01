@@ -1,4 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=15&duration=9000&color=00FF00&multiline=false&height=32&lines=+Olá,+eu+sou+o+RaunySmzz+👻)](https://git.io/typing-svg)
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=15&duration=9000&color=8E44AD&multiline=false&height=32&lines=+Olá,+eu+sou+o+RaunySmzz+👻)](https://git.io/typing-svg)
 <p/>
 
 <div align="center" >

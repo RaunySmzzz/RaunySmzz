@@ -1,4 +1,7 @@
-# Olá! Eu sou o Rauny 👻
+# Olá! Eu sou o Rauny 👻 
+
+
+
 
 <p/>
 
@@ -15,6 +18,7 @@
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain-wordmark.svg" /> 
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain-wordmark.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg" />
+  <img align="right"  height="250" width="260" src="https://i.picasion.com/pic92/cefc93c4b2081a3ead6011b1069d9cf0.gif" width="300" height="300" border="0" alt="https://picasion.com/" /></a>
 </div>
   
 ##
@@ -26,10 +30,6 @@
  
 </div>
  
-  ##
+ 
 
-<div>
- <a href="https://www.instagram.com/raunys_mzz/">
-    <img height="260" width="270" src="https://i.picasion.com/pic92/cefc93c4b2081a3ead6011b1069d9cf0.gif" width="300" height="300" border="0" alt="https://picasion.com/" /></a>       
-  
-  </div>
+

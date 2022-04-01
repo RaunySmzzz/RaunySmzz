@@ -1,5 +1,4 @@
-# [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=15&color=00FF00&multiline=false&height=100&lines=+�+Olá,+eu+sou+o+RaunySmzz+👻)](https://git.io/typing-svg)
-
+# [![Typing SVG](https://readme-typing-svg.herokuapp.com?size=25&duration=15&color=00FF00&multiline=false&height=45&lines=+�+Olá,+eu+sou+o+RaunySmzz+👻)](https://git.io/typing-svg)
 
 <p/>
 
@@ -25,6 +24,8 @@
  <a href="https://www.instagram.com/raunys_mzz/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href = "mailto:rauny.stefano2211@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
  <a href="https://www.linkedin.com/in/rauny-stefano-281782156/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+
  
 </div>
  

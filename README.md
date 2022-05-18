@@ -2,11 +2,7 @@
 
 <p/>
 
-<div align="center" >
-  <a href="hhttps://github.com/RaunySmzzz">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaunySmzzz&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaunySmzzz&layout=compact&langs_count=7&theme=chartreuse-dark"/>
-</div>
+
   
 <div style="display: inline_block"><br>
   <img align="center" height="30" width="40"   src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
